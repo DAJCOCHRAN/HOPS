@@ -10,7 +10,7 @@ class MainActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //try again again
+        //try again again again
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
