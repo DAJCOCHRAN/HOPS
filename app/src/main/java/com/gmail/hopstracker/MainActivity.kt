@@ -15,4 +15,5 @@ class MainActivity : Activity() {
         setContentView(binding.root)
 
     }
+    // I love commits, don't you?
 }
